@@ -2,3 +2,9 @@ Wed 10 May 2023 02:33:01 AM UTC:
  tests:  0|6
 total_score: 0/70
 3fdcafa
+Wed 10 May 2023 02:34:29 AM UTC: 
+ hashmap.c | 121 ++++++++++++++++++++++++++++++++++++++++++++++++++++----------
+ 1 file changed, 103 insertions(+), 18 deletions(-)
+ tests:  17|0
+total_score: 70/70
+c6b991c
